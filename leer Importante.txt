@@ -1,0 +1,38 @@
+para levantar la app seguir los siguientes pasos
+
+abrir dos terminales
+
+-----------------------------
+instalar las dependencias
+------------------------------
+     en una hacer "cd frontEnd"  luego npm i 
+
+     en la segunda hacer "cd backEnd" luego npm i
+
+------------------------------
+Levantar la app
+------------------------------
+     en la segunda terminal (donde se hizo cd backEnd)
+     escribir " node server.js " 
+
+     en la primera terminal (donde se hizo  cd frontEnd)
+     escribir " npm start "
+
+     en la terminal de frontEnd saldra un mensaje que dira " el puerto ya se esta usando desea cambiarlo a otro? y/n"
+     debe darle a " y "  
+      
+
+
+Importante 1
+****************************************************************************************
+si se instalaron correctamente las dependencias  el servidor arrancara correctamente 
+de lo contrario no lo hara
+****************************************************************************************
+
+
+Importante 2
+****************************************************************************************
+El codigo residual no se elimino, solo se comento, mantenerlo asi
+****************************************************************************************
+
+Libre de virus por el momento 10/10/2024
